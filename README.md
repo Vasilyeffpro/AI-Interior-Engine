@@ -7,7 +7,7 @@
 
 **Advanced SDXL Workflow for High-End Architectural Visualization & Interior Design.**
 
-![Workflow Preview](assets/workflow-preview.jpg)
+![Workflow Preview](assets/ComfyUI_Upscale_00022_.png)
 
 ---
 
