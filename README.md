@@ -19,11 +19,6 @@
 - **VRAM Optimized** — Runs smoothly on 12GB GPUs with Tiled VAE and FreeU
 - **Artifact-Free Backgrounds** — Fixed "brush stroke" artifacts on distant elements (e.g., outdoor scenery)
 
-## 🖼️ Results
-
-| Input Sketch | Output |
-|--------------|--------|
-| ![Input](assets/input-example.png) | ![Output](assets/output-example.png) |
 
 ## 📋 Requirements
 
