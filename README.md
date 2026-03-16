@@ -1,4 +1,4 @@
-# 🏛️ Leonards AI Interior Engine
+# 🏛️ AI Interior Engine
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![ComfyUI](https://img.shields.io/badge/engine-ComfyUI-orange.svg)
